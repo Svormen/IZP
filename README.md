@@ -1,0 +1,2 @@
+# IZP
+Základy programovania
